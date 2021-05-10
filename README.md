@@ -26,6 +26,7 @@ This repository has been created as a part of my term project.  The motto of thi
 4.	Finally run the 'Train_and_Validate.py' to train the model and save the model weights: <br />
     ```python Train_and_Validate.py```
 5.  Next run the 'Evaluate.py' to check the performance of the model on test dataset.
+    ```python Evaluate.py```
 
 <ins>Note</ins>: Step 3 works in linux system.  For windows system, please manually run each of the commands inside the 'apriori.sh' file.
 
