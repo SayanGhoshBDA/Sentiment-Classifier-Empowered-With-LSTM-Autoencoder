@@ -28,5 +28,5 @@ This repository has been created as a part of my term project.  The motto of thi
 5.  Next run the 'Evaluate.py' to check the performance of the model on test dataset: <br />
     ```python Evaluate.py```
 
-<ins>Note</ins>: Step 3 works in linux system.  For windows system, please manually run each of the commands inside the 'apriori.sh' file.
+<ins>Note</ins>: Step 3 works in linux system.  For windows system, please manually run each of the commands inside the 'Apriori.sh' file.
 
