@@ -16,7 +16,7 @@ This repository has been created as a part of my term project.  The motto of thi
 4.  gdown
 
 
-### Steps to train a rating prediction model:
+### Steps to train the model:
 1.	Clone this repository: <br />
     ```git clone https://github.com/SayanGhoshBDA/Sentiment-Classifier-Empowered-With-LSTM-Autoencoder.git```
 2.	Enter into the directory named 'code': <br />
