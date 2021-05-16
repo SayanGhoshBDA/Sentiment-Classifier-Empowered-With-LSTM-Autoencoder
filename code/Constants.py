@@ -13,3 +13,5 @@ LEARNING_RATE_FOR_ENCODER_IN_CLASSIFIER = 0.0003
 LEARNING_RATE_FOR_CLASSIFIER = 0.0002
 EPOCHS = 10
 
+import torch
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
